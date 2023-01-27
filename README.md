@@ -1,5 +1,5 @@
 # Pushing with turtlebot3
-Hi there, this is our final project for CS4341(Introduction to AI @WPI).
+Hi there, this is our final project for CS4341(B-term 2022, Introduction to AI @WPI).
 This project is built upon the tutorial provided on the turtlebot3's ROBOTIS [e-Manual](https://emanual.robotis.com/docs/en/platform/turtlebot3/machine_learning/#machine-learning).
 
 In the simple navigation of a robot between two locations, traditional kinematic models may be sufficient for most cases.
